@@ -154,3 +154,7 @@ MIT License
 
 - Groq for providing the AI models API
 - Streamlit for the web application framework
+
+## Live Server
+
+https://smarthealthcareaiassistant.onrender.com
