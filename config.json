@@ -1,0 +1,17 @@
+{
+    "app_title": "Healthcare AI Assistant",
+    "app_description": "Healthcare AI chatbot with enhanced user authentication and improved UI/UX",
+    "available_models": [
+        "llama-3.3-70b-versatile",
+        "llama-3.1-8b-instant"
+    ],
+    "model_name": "llama-3.3-70b-versatile",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "retrieval_top_k": 3,
+    
+    "rate_limit": 10,
+    "rate_window": 60,
+    "session_duration": 3600,
+    "max_history": 100
+}
